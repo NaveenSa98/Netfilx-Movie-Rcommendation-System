@@ -41,7 +41,7 @@ The project is structured as follows:
 
 4. **Recommendation System**:
    - Implement a basic recommendation system based on user preferences.
-   - Provide recommendations based on genres, ratings, and release years.
+   - Provide recommendations based on genres and ratings.
 
 ## 📚 Libraries Used
 
@@ -49,6 +49,7 @@ The project is structured as follows:
 - **NumPy**: For numerical operations.
 - **Matplotlib**: For data visualization.
 - **Seaborn**: For advanced data visualization.
+- **Sklearn**: For the process of building machine learning models.
 
 ## How to Run the Project
 
